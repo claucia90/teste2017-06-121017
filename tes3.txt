@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 claucia
+=======
+Manuel
+>>>>>>> origin/master
